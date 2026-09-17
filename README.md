@@ -198,5 +198,18 @@ This analysis of the UCI Online Retail Dataset highlights how transactional data
 ---
 
 ## ✍️ Author
-
 **Noura Maher**
+## 📞 Contact
+
+For questions or suggestions, please open an issue or contact:
+Noura Maher Elamin
+[LinkedIn](https://www.linkedin.com/in/nouramaher/)
+[GitHub](https://github.com/NouraMaher)
+
+---
+
+<div align="center">
+
+⭐️ **If you find this project helpful, please give it a star!**
+
+</div>
